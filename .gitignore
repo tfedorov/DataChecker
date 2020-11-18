@@ -1,0 +1,14 @@
+/gradlew
+gradlew.bat
+/build
+/.idea
+
+../.DS_Store
+.DS_Store
+../.DS_Store
+gradle/
+/.gradle
+../stdextracts/.DS_Store
+../stdextracts/pgjdbc.log
+../stdextracts/src/.DS_Store
+../stdextracts/src/test/.DS_Store
